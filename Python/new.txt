@@ -1,0 +1,4 @@
+This is a new line.
+This is another line.
+a am writing above lines using write mode in python file handling.
+This line is added using append mode it will add this line at the end of the file data.
